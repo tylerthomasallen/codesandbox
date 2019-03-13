@@ -1,7 +1,7 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>no way does this work</h1>
+<h1>Test two</h1>
 <div>
   We use Parcel to bundle this sandbox, you can find more info about Parcel
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
